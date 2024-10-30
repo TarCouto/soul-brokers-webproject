@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-x: hidden;
+  }
+
+  @font-face {
+    font-family: 'Clash Display';
+    font-weight: 500;
+    src: url('../app/fonts/ClashDisplay-Medium.woff') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Clash Display';
+    font-weight: 500;
+    src: url('../app/fonts/ClashDisplay-Light.woff') format('truetype');
+  }
+  
